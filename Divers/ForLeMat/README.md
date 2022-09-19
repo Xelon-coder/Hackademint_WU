@@ -1,0 +1,2 @@
+Comme son nom l'indique il d'agit d'un python string format exploit, d'après le code notre but est d'appeler la fonction "__repr__".
+Après quelques recherches sur "__repr__" sur stack overflow je comprends qu'il me suffit juste de mettre {!r} en argument pour trigger la fonction.
