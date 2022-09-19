@@ -1,6 +1,6 @@
 1/3
 
-On tente des payloads assez classiques pour faire en sorte que la requête fasse: 'OR 1=1#
+On tente un payload assez classique : 'OR 1=1#
 
 2/3
 
