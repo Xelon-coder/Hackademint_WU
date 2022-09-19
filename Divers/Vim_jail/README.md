@@ -1,4 +1,4 @@
-La première jail est vraiment trop simple pour le coup, en appuyant sur q on quitte la jail et on à accès au bash directement.
+La première jail est vraiment trop simple pour le coup, en appuyant sur q on quitte la jail et on a accès au bash directement.
 
 La seconde est assez classique pour une vim jail/privesc il suffit de faire :
 :set shell=/bin/bash
