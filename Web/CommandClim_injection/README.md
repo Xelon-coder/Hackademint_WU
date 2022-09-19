@@ -1,0 +1,2 @@
+En regardant attentivement le comportement du site quand on envoie un formulaire, il y a un champs debug qui n'est pas utilisé.
+En mettant id dans ce champs (à l'aide de burp ou firefox) et regardant le résultat on remarque qu'une commande s'est executée, on peut donc remonté et affiché le flag
